@@ -1,0 +1,28 @@
+@media (max-width: 1440px) {
+    img {
+        height: 600px;
+    }
+}
+
+@media (max-width: 1024px) {
+    img {
+        height: 500px;
+    }
+}
+
+@media (max-width: 834px) {
+    img {
+        height: 400px;
+    }
+}
+
+@media (max-width: 768px) {
+    img {
+        height: 350px;
+    }
+}
+@media (max-width: 480px) {
+    img {
+        height: 250px;
+    }
+}
